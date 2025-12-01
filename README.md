@@ -1,6 +1,6 @@
 # Zein Alabdin Zreik  
 **Mechatronics & Robotics Engineer**  
-Robotics · Embedded Systems · Control · AI · Full-Stack Development
+Robotics · Embedded Systems · Control · AI · Matlab · Python · CAD
 
 ---
 
