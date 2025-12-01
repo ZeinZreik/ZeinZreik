@@ -86,11 +86,6 @@ Motor drivers · Servos (LX, XL, XC series) · IMUs · encoders · power systems
 
 ---
 
-## 📈 GitHub Stats  
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ZeinZreik&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
-
----
-
 ## 🔧 Skills & Badges
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
