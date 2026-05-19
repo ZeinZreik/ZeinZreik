@@ -1,105 +1,87 @@
 # Zein Alabdin Zreik
 
-**Embedded Software & Automation Engineer**
+**Embedded Software and Automation Engineer | Robotics, IoT Security, Computer Vision, and Mechatronics**
 
-I develop software solutions for intelligent systems, combining embedded systems, automation, robotics, computer vision, and hardware integration.
+I build practical intelligent systems that connect software with real hardware: embedded devices, robotic platforms, automation tools, computer-vision pipelines, and simulation-driven mechanical prototypes.
 
-[Email](mailto:zreikzein@gmail.com) | [Website](https://zein.zreik.tech) | [LinkedIn](https://www.linkedin.com/in/zein-alabdin-zreik/) | [GitHub](https://github.com/ZeinZreik) | [Upwork](https://www.upwork.com/freelancers/~017d8e9f51938c78c9)
-
----
-
-## Profile
-
-Embedded software and automation engineer with a mechatronics background and hands-on experience building intelligent robotic and industrial systems. My work spans Python, C/C++, Java, MATLAB/Simulink, PLC logic, embedded hardware, computer vision, and real-time communication between sensors, actuators, and control software.
-
-I focus on practical systems that move from design to working hardware: embedded IoT platforms, autonomous robotics, AI-assisted tools, control software, and CAD-to-firmware prototypes.
+[Email](mailto:zreikzein@gmail.com) | [Website](https://zein.zreik.tech) | [LinkedIn](https://www.linkedin.com/in/zein-alabdin-zreik/) | [Upwork](https://www.upwork.com/freelancers/~017d8e9f51938c78c9)
 
 ---
 
-## Work Experience
+## What I Work On
 
-### Embedded Software & Automation Engineer
-**Freelance** | 08/2022 - Present | Remote
-
-- Developed simulation and control systems using MATLAB/Simulink and Python.
-- Built software tools and automation solutions using Python, C/C++, and Java.
-- Developed embedded and IoT systems using Arduino, ESP32, and Raspberry Pi.
-
-### Robotics Manager
-**TOOLii Robotics** | 07/2025 - 10/2025 | Melbourne, Australia
-
-- Designed and developed robotics solutions for company products.
-- Integrated hardware and software subsystems for autonomous robot operation.
-- Developed control software for autonomous robotic systems.
-- Developed AI and computer vision software for robotic systems.
-- Led prototyping, testing, and deployment of products.
-
-### Maintenance Manager
-**Core Textile** | 05/2024 - 02/2025 | 10th of Ramadan, Egypt
-
-- Performed diagnostics and maintenance for industrial automated textile systems.
-- Designed and implemented electrical control panel solutions.
-- Worked with industrial robotic and automated manufacturing equipment.
-- Assisted in CAD design and industrial automation workflows.
+- Embedded and IoT systems with ESP32, Raspberry Pi, Arduino, C/C++, and Python.
+- Robotics software for autonomous behavior, perception, control, and hardware integration.
+- Industrial automation workflows involving control panels, diagnostics, PLC logic, and maintenance systems.
+- Computer vision and AI-assisted tools using Python, OpenCV, PyTorch, and modern APIs.
+- Mechanical and mechatronics design using CAD, simulation, and prototype validation.
 
 ---
 
-## Skills
+## Featured Projects
 
-![OpenCV](https://img.shields.io/badge/OpenCV-27364A?style=flat&logo=opencv&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-27364A?style=flat)
-![ESP32](https://img.shields.io/badge/ESP32-27364A?style=flat&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-27364A?style=flat&logo=raspberrypi&logoColor=white)
+### Lightweight SIEM for Raspberry Pi and ESP32 IoT Nodes
+
+A compact security monitoring stack for IoT labs. It ingests MQTT/TLS, Syslog, and CoAP/DTLS events, stores tamper-evident JSONL logs, and displays alerts through a local dashboard.
+
+**Focus:** IoT security, Raspberry Pi, ESP32, MQTT, CoAP/DTLS, Python, embedded networking.
+
+### Robotics and Mechatronics Portfolio
+
+A collection of mechanical and robotics projects covering a 3-DOF parallel robot, thruster-orienting compliant mechanism, 2-DOF planar robot ball control, hexapod walking, and catapult simulation.
+
+**Focus:** robot design, kinematics, simulation, MATLAB, Arduino, SolidWorks, ANSYS, MSC Adams.
+
+### Handwritten Digit Recognition
+
+A Flask and PyTorch MNIST demo that accepts user-drawn digits, returns model probabilities, and visualizes convolutional feature maps for interpretability.
+
+**Focus:** PyTorch, Flask, computer vision, model interpretability, web deployment.
+
+---
+
+## Technical Stack
+
 ![Python](https://img.shields.io/badge/Python-27364A?style=flat&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-27364A?style=flat)
-![PLC](https://img.shields.io/badge/PLC-27364A?style=flat)
-![Arduino C](https://img.shields.io/badge/Arduino_C-27364A?style=flat&logo=arduino&logoColor=white)
-![AI & ML](https://img.shields.io/badge/AI_%26_ML-27364A?style=flat)
-![Simscape Multibody](https://img.shields.io/badge/Simscape_Multibody-27364A?style=flat)
-![Embedded Hardware Design](https://img.shields.io/badge/Embedded_Hardware_Design-27364A?style=flat)
-![Mechanical Design](https://img.shields.io/badge/Mechanical_Design-27364A?style=flat)
-![Git](https://img.shields.io/badge/Git-27364A?style=flat&logo=git&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-27364A?style=flat&logo=flutter&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-27364A?style=flat&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-27364A?style=flat)
-![C#](https://img.shields.io/badge/C%23-27364A?style=flat)
-![ROS2](https://img.shields.io/badge/ROS2-27364A?style=flat&logo=ros&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-27364A?style=flat)
+![Arduino](https://img.shields.io/badge/Arduino-27364A?style=flat&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-27364A?style=flat&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-27364A?style=flat&logo=raspberrypi&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27364A?style=flat&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-27364A?style=flat&logo=pytorch&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-27364A?style=flat&logo=flask&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-27364A?style=flat&logo=linux&logoColor=white)
-![Teamwork](https://img.shields.io/badge/Teamwork-27364A?style=flat)
-![Problem Solving](https://img.shields.io/badge/Problem--Solving-27364A?style=flat)
+![ROS2](https://img.shields.io/badge/ROS2-27364A?style=flat&logo=ros&logoColor=white)
+![PLC](https://img.shields.io/badge/PLC-27364A?style=flat)
+![CAD](https://img.shields.io/badge/CAD-27364A?style=flat)
 
 ---
 
-## Projects
+## Experience
 
-### Receptionist Robot (2025)
+### Embedded Software and Automation Engineer
 
-- Developed an AI-powered receptionist robot using Python, OpenAI APIs, and embedded systems.
-- Implemented speech interaction, autonomous navigation, and real-time database connectivity.
-- Integrated computer vision, hardware control, and software subsystems for autonomous operation.
+**Freelance | 08/2022 - Present | Remote**
 
-### Lightweight IoT SIEM System (2025)
+- Develop simulation, control, automation, and embedded systems using Python, C/C++, Java, MATLAB/Simulink, Arduino, ESP32, and Raspberry Pi.
+- Build software tools that connect sensors, actuators, dashboards, APIs, and real-time hardware workflows.
 
-- Developed a lightweight SIEM platform on Raspberry Pi for real-time IoT security monitoring.
-- Implemented MQTT, CoAP, and syslog ingestion pipelines with TLS/DTLS secure communication.
-- Designed detection logic, event parsing, and automated alert systems using Python and embedded networking.
+### Robotics Manager
 
-### 2 DOF Thruster Orienting Compliant Mechanism (2023)
+**TOOLii Robotics | 07/2025 - 10/2025 | Melbourne, Australia**
 
-- Designed and controlled a 3D-printed 2 DOF thruster-orienting compliant mechanism as a fifth-year internship project.
-- Designed using SolidWorks and studied using ANSYS Mechanical.
+- Designed and integrated robotics solutions for autonomous product prototypes.
+- Developed control software, AI/computer-vision components, and hardware/software integration workflows.
+- Led prototyping, testing, and deployment across mechanical, embedded, and software subsystems.
 
-### 3 DOF Wrist Joint using SPM Mechanism (2022)
+### Maintenance Manager
 
-- Designed and controlled a 3D-printed 3 DOF wrist joint using a spherical parallel mechanism as a fourth-year internship project.
-- Used MATLAB and Arduino C for programming.
-- Designed using SolidWorks and studied using ANSYS Mechanical.
+**Core Textile | 05/2024 - 02/2025 | 10th of Ramadan, Egypt**
 
-### 6 DOF Robotic Arm (2019)
-
-- Designed and programmed a 6 DOF robotic arm with AI-based object detection and tracking.
-- Implemented computer vision algorithms using Python and OpenCV for object recognition and positioning.
-- Developed motion control and embedded communication systems using Arduino and Python.
+- Performed diagnostics and maintenance for automated textile systems.
+- Designed electrical control panel solutions and supported industrial automation workflows.
 
 ---
 
@@ -107,7 +89,20 @@ I focus on practical systems that move from design to working hardware: embedded
 
 **B.Eng. Mechatronics**  
 Higher Institute for Applied Sciences and Technology  
-10/2018 - 08/2023 | Damascus, Syria | 76.88%
+10/2018 - 08/2023 | Damascus, Syria
+
+---
+
+## Recognition and Participation
+
+- SCPC, 3rd place (2020)
+- HIAST-SVU CPC, 5th place awards (2020)
+- ACPC Kickoff (2020)
+- WRO Regular Senior Category, 8th place representing Syria (2019)
+- SyriaTech Exhibition, Damascus Fairgrounds (2019)
+- Damascus University Robotics Day Exhibition (2019)
+- Annual Robotics Challenge Syria, University Open Category (2019)
+- WRO Syria Regular Senior Category (2016, 2017)
 
 ---
 
@@ -117,18 +112,3 @@ Higher Institute for Applied Sciences and Technology
 - English: Full professional proficiency
 - French: Limited working proficiency
 - German: Elementary proficiency
-
----
-
-## Participation
-
-- SCPC, 3rd place (2020)
-- HIAST-SVU CPC, awarded for the 5th place, extreme programmers and solid programmers (2020)
-- ACPC Kickoff (2020)
-- WRO, Regular Senior Category, 8th place representing Syria (2019)
-- SyriaTech Exhibition, Damascus Fairgrounds (2019)
-- HIAST-SVU CPC (2019)
-- Damascus University Robotics Day Exhibition (2019)
-- Annual Robotics Challenge Syria, Uni. Open Category (2019)
-- WRO Syria, Regular Senior Category (2017)
-- WRO Syria, Regular Senior Category (2016)
