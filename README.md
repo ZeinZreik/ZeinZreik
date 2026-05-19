@@ -4,10 +4,10 @@
 
 I build practical intelligent systems that connect software with real hardware: embedded devices, robotic platforms, automation tools, computer-vision pipelines, and simulation-driven mechanical prototypes.
 
-[Email](mailto:zreikzein@gmail.com) | [Website](https://zein.zreik.tech) | [Resume](https://zein.zreik.tech/resume.html) | [LinkedIn](https://www.linkedin.com/in/zein-alabdin-zreik/) | [Upwork](https://www.upwork.com/freelancers/~017d8e9f51938c78c9)
+[Email](mailto:zreikzein@gmail.com) | [Website](https://zein.zreik.tech) | [Resumé / CV](https://zein.zreik.tech/resume.html) | [LinkedIn](https://www.linkedin.com/in/zein-alabdin-zreik/) | [Upwork](https://www.upwork.com/freelancers/~017d8e9f51938c78c9)
 
-[![View Resume](https://img.shields.io/badge/View_Resume-27364A?style=for-the-badge)](https://zein.zreik.tech/resume.html)
-[![Download Resume](https://img.shields.io/badge/Download_PDF-4aa0a6?style=for-the-badge)](https://drive.google.com/uc?export=download&id=1zr38_lbUobPRDSDWdKyo2FcWX2y7qtQs)
+[![View Resumé / CV](https://img.shields.io/badge/View_Resum%C3%A9_%2F_CV-27364A?style=for-the-badge)](https://zein.zreik.tech/resume.html)
+[![Download Resumé / CV](https://img.shields.io/badge/Download_Resum%C3%A9_%2F_CV-4aa0a6?style=for-the-badge)](https://drive.google.com/uc?export=download&id=1zr38_lbUobPRDSDWdKyo2FcWX2y7qtQs)
 
 ---
 
