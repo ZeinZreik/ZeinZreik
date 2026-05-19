@@ -4,7 +4,10 @@
 
 I build practical intelligent systems that connect software with real hardware: embedded devices, robotic platforms, automation tools, computer-vision pipelines, and simulation-driven mechanical prototypes.
 
-[Email](mailto:zreikzein@gmail.com) | [Website](https://zein.zreik.tech) | [LinkedIn](https://www.linkedin.com/in/zein-alabdin-zreik/) | [Upwork](https://www.upwork.com/freelancers/~017d8e9f51938c78c9)
+[Email](mailto:zreikzein@gmail.com) | [Website](https://zein.zreik.tech) | [Resume](https://zein.zreik.tech/resume.html) | [LinkedIn](https://www.linkedin.com/in/zein-alabdin-zreik/) | [Upwork](https://www.upwork.com/freelancers/~017d8e9f51938c78c9)
+
+[![View Resume](https://img.shields.io/badge/View_Resume-27364A?style=for-the-badge)](https://zein.zreik.tech/resume.html)
+[![Download Resume](https://img.shields.io/badge/Download_PDF-4aa0a6?style=for-the-badge)](https://drive.google.com/uc?export=download&id=1zr38_lbUobPRDSDWdKyo2FcWX2y7qtQs)
 
 ---
 
@@ -26,11 +29,11 @@ A compact security monitoring stack for IoT labs. It ingests MQTT/TLS, Syslog, a
 
 **Focus:** IoT security, Raspberry Pi, ESP32, MQTT, CoAP/DTLS, Python, embedded networking.
 
-### [3-DOF Spherical Parallel Robot](https://github.com/ZeinZreik/Design-and-Implementation-of-a-3-DOF-Parallel-Robot)
+### Receptionist Robot
 
-An end-to-end mechatronics build for a 3-DOF spherical parallel mechanism, including CAD design iterations, manufacturing files, PCB/Gerber assets, Arduino firmware, MATLAB inverse kinematics, torque-transmission analysis, ANSYS structural analysis, reports, poster, and presentations.
+An AI-powered receptionist robot combining speech interaction, autonomous navigation, real-time database connectivity, perception, embedded control, and hardware integration. The source is private, but the project is a major autonomous robotics milestone.
 
-**Focus:** parallel robotics, kinematics, embedded servo control, PCB design, structural validation, SolidWorks/Inventor, ANSYS, MATLAB, Arduino.
+**Focus:** autonomous robotics, Python, OpenAI APIs, speech interaction, navigation, embedded systems, database integration.
 
 ### [Thruster-Orienting Compliant Mechanism](https://github.com/ZeinZreik/Design-and-Implementation-of-a-Thruster-Orienting-Compliant-Mechanism)
 
@@ -38,17 +41,11 @@ An advanced 2-DOF precision-pointing mechanism project comparing compliant and n
 
 **Focus:** compliant mechanisms, flexure-based motion, thruster pointing, precision mechatronics, structural validation, Simscape, SolidWorks, ANSYS, MATLAB, Arduino.
 
-### [2-DOF Ball-Balancing Platform](https://github.com/ZeinZreik/2DoFs-Planar-Robot-Ball-Control)
+### [3-DOF Spherical Parallel Robot](https://github.com/ZeinZreik/Design-and-Implementation-of-a-3-DOF-Parallel-Robot)
 
-A CAD-to-control project for a 2-DOF actuated platform, with SolidWorks parts and assembly, STEP exports, Simscape Multibody imports, Simulink models, MATLAB state-space pole-placement control, observer design, generated model data, and simulation media.
+An end-to-end mechatronics build for a 3-DOF spherical parallel mechanism, including CAD design iterations, manufacturing files, PCB/Gerber assets, Arduino firmware, MATLAB inverse kinematics, torque-transmission analysis, ANSYS structural analysis, reports, poster, and presentations.
 
-**Focus:** control systems, Simscape Multibody, Simulink, SolidWorks, state-space control, mechatronics simulation.
-
-### [Handwritten Digit Recognition](https://github.com/ZeinZreik/Handwritten-Digit-Recognition)
-
-A Flask and PyTorch MNIST demo that accepts user-drawn digits, returns model probabilities, and visualizes convolutional feature maps for interpretability.
-
-**Focus:** PyTorch, Flask, computer vision, model interpretability, web deployment.
+**Focus:** parallel robotics, kinematics, embedded servo control, PCB design, structural validation, SolidWorks/Inventor, ANSYS, MATLAB, Arduino.
 
 ---
 
@@ -75,14 +72,14 @@ A Flask and PyTorch MNIST demo that accepts user-drawn digits, returns model pro
 
 ### Embedded Software and Automation Engineer
 
-**Freelance | 08/2022 - Present | Remote**
+**[Freelance](https://www.upwork.com/freelancers/~017d8e9f51938c78c9) | 08/2022 - Present | Remote**
 
 - Develop simulation, control, automation, and embedded systems using Python, C/C++, Java, MATLAB/Simulink, Arduino, ESP32, and Raspberry Pi.
 - Build software tools that connect sensors, actuators, dashboards, APIs, and real-time hardware workflows.
 
 ### Robotics Manager
 
-**TOOLii Robotics | 07/2025 - 10/2025 | Melbourne, Australia**
+**[TOOLii Robotics](https://toolii.com) | 07/2025 - 10/2025 | Melbourne, Australia**
 
 - Designed and integrated robotics solutions for autonomous product prototypes.
 - Developed control software, AI/computer-vision components, and hardware/software integration workflows.
