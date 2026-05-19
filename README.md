@@ -79,7 +79,7 @@ An end-to-end mechatronics build for a 3-DOF spherical parallel mechanism, inclu
 
 ### Robotics Manager
 
-**[TOOLii Robotics](https://toolii.com) | 07/2025 - 10/2025 | Melbourne, Australia**
+**[TOOLii Robotics](https://toolii.ai/) | 07/2025 - 10/2025 | Melbourne, Australia**
 
 - Designed and integrated robotics solutions for autonomous product prototypes.
 - Developed control software, AI/computer-vision components, and hardware/software integration workflows.
