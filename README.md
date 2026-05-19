@@ -107,7 +107,7 @@ Higher Institute for Applied Sciences and Technology
 
 ## Recognition and Participation
 
-- SCPC, 3rd place (2020)
+- SCPC, 23rd place (2020)
 - HIAST-SVU CPC, 5th place awards (2020)
 - ACPC Kickoff (2020)
 - WRO Regular Senior Category, 8th place representing Syria (2019)
