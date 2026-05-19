@@ -26,11 +26,17 @@ A compact security monitoring stack for IoT labs. It ingests MQTT/TLS, Syslog, a
 
 **Focus:** IoT security, Raspberry Pi, ESP32, MQTT, CoAP/DTLS, Python, embedded networking.
 
-### Robotics and Mechatronics Portfolio
+### 3-DOF Spherical Parallel Robot
 
-A collection of mechanical and robotics projects covering a 3-DOF parallel robot, thruster-orienting compliant mechanism, 2-DOF planar robot ball control, hexapod walking, and catapult simulation.
+An end-to-end mechatronics build for a 3-DOF spherical parallel mechanism, including CAD design iterations, manufacturing files, PCB/Gerber assets, Arduino firmware, MATLAB inverse kinematics, torque-transmission analysis, ANSYS structural analysis, reports, poster, and presentations.
 
-**Focus:** robot design, kinematics, simulation, MATLAB, Arduino, SolidWorks, ANSYS, MSC Adams.
+**Focus:** parallel robotics, kinematics, embedded servo control, PCB design, structural validation, SolidWorks/Inventor, ANSYS, MATLAB, Arduino.
+
+### 2-DOF Ball-Balancing Platform
+
+A CAD-to-control project for a 2-DOF actuated platform, with SolidWorks parts and assembly, STEP exports, Simscape Multibody imports, Simulink models, MATLAB state-space pole-placement control, observer design, generated model data, and simulation media.
+
+**Focus:** control systems, Simscape Multibody, Simulink, SolidWorks, state-space control, mechatronics simulation.
 
 ### Handwritten Digit Recognition
 
