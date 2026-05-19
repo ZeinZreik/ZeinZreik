@@ -6,9 +6,6 @@ I build practical intelligent systems that connect software with real hardware: 
 
 [Email](mailto:zreikzein@gmail.com) | [Website](https://zein.zreik.tech) | [Resumé](https://zein.zreik.tech/resume.html) | [LinkedIn](https://www.linkedin.com/in/zein-alabdin-zreik/) | [Upwork](https://www.upwork.com/freelancers/~017d8e9f51938c78c9)
 
-[![View Resumé](https://img.shields.io/badge/View_Resum%C3%A9-27364A?style=for-the-badge)](https://zein.zreik.tech/resume.html)
-[![Download Resumé](https://img.shields.io/badge/Download_Resum%C3%A9-4aa0a6?style=for-the-badge)](https://drive.google.com/uc?export=download&id=1zr38_lbUobPRDSDWdKyo2FcWX2y7qtQs)
-
 ---
 
 ## What I Work On
