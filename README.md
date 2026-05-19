@@ -32,6 +32,12 @@ An end-to-end mechatronics build for a 3-DOF spherical parallel mechanism, inclu
 
 **Focus:** parallel robotics, kinematics, embedded servo control, PCB design, structural validation, SolidWorks/Inventor, ANSYS, MATLAB, Arduino.
 
+### Thruster-Orienting Compliant Mechanism
+
+An advanced 2-DOF precision-pointing mechanism project comparing compliant and non-compliant actuation architectures. It includes SolidWorks assemblies, STL/STEP manufacturing files, SimMechanics/Simscape models, MATLAB inverse kinematics and trajectory generation, MATLAB-to-Arduino serial control, stepper-motor firmware, ANSYS structural analysis, design drawings, reports, presentations, and a technical reference library.
+
+**Focus:** compliant mechanisms, flexure-based motion, thruster pointing, precision mechatronics, structural validation, Simscape, SolidWorks, ANSYS, MATLAB, Arduino.
+
 ### 2-DOF Ball-Balancing Platform
 
 A CAD-to-control project for a 2-DOF actuated platform, with SolidWorks parts and assembly, STEP exports, Simscape Multibody imports, Simulink models, MATLAB state-space pole-placement control, observer design, generated model data, and simulation media.
